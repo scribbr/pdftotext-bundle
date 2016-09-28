@@ -16,7 +16,7 @@
         "ext-mbstring": "*",
         "symfony/symfony": "^2.0|^3.0",
         "symfony/monolog-bundle": "^2.0",
-        "alchemy/binary-driver": "1.4.1"
+        "alchemy/binary-driver": "^1.6"
     },
     "autoload": {
         "psr-0": { "Webgriffe\\PdfToTextBundle": "" }
